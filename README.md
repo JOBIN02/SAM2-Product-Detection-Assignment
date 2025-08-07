@@ -26,7 +26,7 @@ Performance Evaluation: The accuracy of the model was calculated for each produc
 
 "*Code and Final Output Attached in the Sam2_fixed.ipynb and Sam2_Download.ipynb file*"
 
-NOTE:Sam2_fixed.ipynb is for previewing the output and Sam2_Download.ipynb is to check and download the code, kindly download this file. 
+NOTE: Sam2_fixed.ipynb is for previewing the output and Sam2_Download.ipynb is to check and download the code, kindly download this file. 
 
 3.Conclusion
 
